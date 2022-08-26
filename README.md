@@ -8,7 +8,7 @@ Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.
 
 Description
 -------------------
-Development board based on STM32F411CEU6.
+STM32F411CEU6 based development board wih high-performance ARM® Cortex®-M4 32-bit RISC core operating at a frequency of up to 100 MHz, 512kBytes of Flash memory, 128kBytes SRAM, 24 PWM, 5 SPI, 3 UART, 32 Digital Pins and 10 channel 12 bit ADC Pins.
 
 Contents
 -------------------
