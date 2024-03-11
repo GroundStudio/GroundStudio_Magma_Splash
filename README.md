@@ -30,4 +30,11 @@ This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4
 
 Please consider contributing back to this project or others to help the open-source hardware community continue to thrive and grow!
 
+Certifications:
+
+[Open Source Hardware Association](https://certification.oshwa.org/ro000009.html)   
+   
+[![certification-mark-RO000009-wide](https://github.com/GroundStudio/GroundStudio_Magma_Splash/assets/77836107/c483bcac-ce3f-430a-aba4-f095827debe0)
+](https://certification.oshwa.org/ro000009.html)
+
 
